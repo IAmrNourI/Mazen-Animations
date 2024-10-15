@@ -395,6 +395,9 @@ header nav div button {
         display: none;
     }
 }
+.homeBody {
+    background-color: var(--touchColor);
+}
 
 #background-video {
     position: fixed; /* Fixed position so the video stays in the background */
